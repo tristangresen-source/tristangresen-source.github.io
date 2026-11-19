@@ -4,7 +4,7 @@ Public website for the game: a landing page (`index.html`) and the privacy polic
 The game itself lives in a separate private repository.
 
 ## Before launch
-- Replace `[your contact email here]` in `index.html` and `privacy.html` with the game's email.
+- Contact email: sunnyisletycoon@gmail.com (in `index.html` and `privacy.html`).
 - If the privacy policy changes, copy the new text from `STORE/privacy-policy.html` in the game repo
   and update the "Last updated" date.
 
